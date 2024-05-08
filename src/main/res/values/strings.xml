@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flight Frenzy</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="status">Status</string>
+    <string name="puppy">Puppy :</string>
+    <string name="kitten">Kitten :</string>
+</resources>
